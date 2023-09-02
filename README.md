@@ -12,6 +12,5 @@
 
 IP 51.250.82.247
 
-Frontend https://sergio-dzhi.nomoredomainsicu.ru
-
 Backend https://api.sergio-dzhi.nomoredomainsicu.ru
+Frontend https://sergio-dzhi.nomoredomainsicu.ru
